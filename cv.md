@@ -1,2 +1,1 @@
-# Bogdanets Vadzim
-***
+# Bogdanets Vadzim ***
