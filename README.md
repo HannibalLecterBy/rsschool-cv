@@ -1,1 +1,1 @@
-https://HannibalLecterBy.github.io/rsschool-cv/cv.md
+https://HannibalLecterBy.github.io/rsschool-cv/cv
